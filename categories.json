@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65ed9a98b7f187885e495a71"
+  },
+  "name": "Pizzas"
+},{
+  "_id": {
+    "$oid": "65ed9a98b7f187885e495a72"
+  },
+  "name": "Burgers"
+},{
+  "_id": {
+    "$oid": "65ed9a98b7f187885e495a73"
+  },
+  "name": "Pasta"
+},{
+  "_id": {
+    "$oid": "65ed9a98b7f187885e495a74"
+  },
+  "name": "Desserts"
+}]

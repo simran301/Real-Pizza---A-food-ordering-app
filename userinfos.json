@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "65ed9a75b7f187885e495a6e"
+  },
+  "email": "priyank@gmail.com",
+  "streetAddress": "456 Elm St",
+  "postalCode": "98765",
+  "city": "Example City",
+  "country": "Canada",
+  "phone": "987-654-3210",
+  "admin": true
+}]

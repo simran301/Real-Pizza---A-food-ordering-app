@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "65edd116b7f187885e495a84"
+  },
+  "image": "https://www.sottopizza.nl/local/userfiles/202010SOTTO118_2.jpg",
+  "name": "Pepperoni Pizza",
+  "description": "Classic with tomato sauce, mozzarella, and pepperoni",
+  "category": {
+    "$oid": "65ed9a98b7f187885e495a71"
+  },
+  "basePrice": 250,
+  "sizes": [
+    {
+      "_id": {
+        "$oid": "65edfb5fb7f187885e495a8e"
+      },
+      "name": "Small",
+      "price": 0
+    },
+    {
+      "_id": {
+        "$oid": "65edfb6db7f187885e495a8f"
+      },
+      "name": "Medium",
+      "price": 100
+    },
+    {
+      "_id": {
+        "$oid": "65edfb7cb7f187885e495a90"
+      },
+      "name": "Large",
+      "price": 200
+    }
+  ],
+  "extraIngredientPrices": [
+    {
+      "_id": {
+        "$oid": "65edfb8fb7f187885e495a91"
+      },
+      "name": "Extra Cheese",
+      "price": 40
+    },
+    {
+      "_id": {
+        "$oid": "65edfb9bb7f187885e495a92"
+      },
+      "name": "Mushrooms",
+      "price": 20
+    }
+    
+  ]
+}]
